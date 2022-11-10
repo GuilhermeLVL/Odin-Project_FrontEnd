@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick+No+Bills&display=swap');
+body{
+    background-color: rgb(31, 30, 30);
+    color: aliceblue;
+}
+.container-01{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+    width: auto;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 80px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;;
+    font-size: 20px;
+}
+img{
+    height: auto;
+    width: 200px;
+}
+
+.container-02{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 52px;
+    height: 25em;
+    width: 25em;
+}
