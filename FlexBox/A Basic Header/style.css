@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    height: 5em;
+
+    background-color: blanchedalmond;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo{
+    height: 3em;
+    width: 10em;
+    color: rgb(218, 115, 20);
+    background-color:rgb(255, 255, 255) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 3em;
+    width: 15em;
+    color: blue;
+
+}
+
+.uma3{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    background-color:rgb(255, 255, 255) ; 
+}
+
+.quatroa6{
+    display: flex;
+    justify-content: space-around;
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+}
