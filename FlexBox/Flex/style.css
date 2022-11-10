@@ -1,0 +1,46 @@
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+header{
+    padding-top: 10em;
+   
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10em;
+    height: 5em;
+    text-align: center;
+}
+
+.azul{
+background-color: blue;
+    display: flex;
+    height: 25em;
+    width: 25em;
+    align-items: center;
+   justify-content: center;
+   border: 10px solid rgb(5, 5, 112);
+
+}
+
+.vermelho{
+    display: flex;
+    background-color: red;
+    height: 10em;
+    width: 10em;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid rgb(128, 1, 1);
+
+}
