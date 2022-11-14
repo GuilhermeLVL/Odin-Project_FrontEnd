@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body{
+    font-family: Roboto, sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(159, 159, 159);
+    padding: 15EM;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    height: 13em;
+    width: 35em;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px black; 
+}
+.escla{
+    background-color: rgb(204, 204, 204);
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    font-size: 26px;
+    color: rgb(0, 136, 255);
+}
+.xxx{
+background-color: rgb(226, 227, 228);
+color: rgb(63, 78, 90);
+height: 25px;
+width: 25px;
+border-radius: 30px;
+display: flex;
+justify-content: center;
+font-size: 20px;
+}
+.headd{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+
+}
+.texto{  
+    width: 26em;
+font-size: 15px;
+}
+.butao1{
+    height: 25px;
+    background-color: rgb(113, 113, 244);
+    color: blanchedalmond;
+    border:none;
+    border-radius: 8px;
+}
+.butao2{
+    height: 25px;
+    background-color: rgb(255, 254, 254);
+    color: blue;
+    border-radius: 8px;
+    border: 1px solid black;
+}
