@@ -1,0 +1,42 @@
+
+header{
+    background-color:blueviolet ;
+    color: aliceblue;
+    height: 3em;
+}
+.container{
+    display: flex;
+}
+
+.esquerda{
+    background-color: rgb(95, 95, 221);
+    color: aliceblue;
+    width: 20em;
+    
+}
+.direita{
+display: flex;
+justify-content: left;
+height: 50%;
+width: 60%;
+flex-wrap: wrap;
+}
+
+
+.informa{
+    
+display: flex;
+padding: 40px;
+    height: 15em;
+    width: 15em;
+    margin: 10px;
+    box-shadow: 1px 1px 5px ;
+    background-color: rgb(183, 181, 176);
+
+}
+footer{
+     background-color:rgb(157, 159, 161) ;
+     color: blueviolet;
+     display: flex;
+     justify-content: center;
+}
